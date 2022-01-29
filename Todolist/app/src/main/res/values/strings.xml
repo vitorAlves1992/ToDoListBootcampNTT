@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">To do list</string>
+    <string name="tarefa">Tarefas</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+    <string name="title">Título</string>
+    <string name="date">Data</string>
+    <string name="calcel">Cancelar</string>
 </resources>

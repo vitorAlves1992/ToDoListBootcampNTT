@@ -72,7 +72,7 @@
         app:layout_constraintStart_toEndOf="@id/til_date"
         app:layout_constraintEnd_toEndOf="@id/guideline_end"
         app:layout_constraintTop_toTopOf="@id/til_date"
-        android:hint="@string/date"
+        android:hint="@string/hour"
         app:startIconDrawable="@drawable/ic_timer"
         >
         <com.google.android.material.textfield.TextInputEditText
@@ -83,6 +83,7 @@
             />
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_cancel"
         style="@style/Widget.MaterialComponents.Button.OutlinedButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

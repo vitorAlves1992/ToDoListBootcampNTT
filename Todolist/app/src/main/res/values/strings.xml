@@ -5,4 +5,9 @@
     <string name="title">Título</string>
     <string name="date">Data</string>
     <string name="calcel">Cancelar</string>
+    <string name="btn_add_new_task">Botão de adicionar tarefa</string>
+    <string name="hour">hora</string>
+    <string name="edit">Editar</string>
+    <string name="delet">Deletar</string>
+    <string name="text_empty_task">Ops! Você não possui\n nenhuma tarefa</string>
 </resources>
